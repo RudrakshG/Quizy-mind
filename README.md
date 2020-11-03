@@ -1,1 +1,2 @@
-# Quizy-mind
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
